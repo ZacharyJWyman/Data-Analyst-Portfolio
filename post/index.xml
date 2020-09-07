@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zachary Wyman</title>
+    <link>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/</link>
+    <description>Recent content in Projects on Zachary Wyman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: What Makes a Song Popular?</title>
+      <link>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-4/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-4/</guid>
+      <description> Connected to Spotify API to gather data on the most popular songs and fill in missing values. Used data-analytic techniques to examine correlation between features and popularity. Hyper-tuned parameters using GridSearchCV. Utilized blending and stacking ensemble-techniques to increase accuracy and improve model performance. Created an algorithm that predicts a song&amp;rsquo;s popularity based on the factor values associated with it.
+  Project&amp;rsquo;s GitHub Repository  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Web Scraping to Determine Best Programming Courses</title>
+      <link>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-3/</link>
+      <pubDate>Mon, 17 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-3/</guid>
+      <description> Designed and implemented a web scraper. Streamlined the process of scraping through user-defined functions. Cleaned and transformed scraped data for usability. Determined the best programming courses to take for various domains. Implemented visualizations and readable code for user ease.   Project&amp;rsquo;s GitHub Repository  </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Covid-19 Forecasting and Analysis</title>
+      <link>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-2/</link>
+      <pubDate>Sun, 09 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-2/</guid>
+      <description>Scraped and cleaned time series data on Covid-19 in the United States from the web using python libraries Pandas and NumPy. Utilized the open source software fbprophet to create predictive models and forecast the number of confirmed cases, deaths and recoveries for the next 10 days. Worked with Pytrend API to collect search interest on Covid-19 in the U.S. and then processed the data for a visual representation. Developed interactive plots using Plotly as well as Matplotlib and Seaborn to present analysis in a visual format.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Champion Picks at High Elo - League of Legends Analysis</title>
+      <link>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-1/</link>
+      <pubDate>Tue, 28 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zacharyjwyman.github.io/Data-Analyst-Portfolio/post/project-1/</guid>
+      <description>Used Riot Games API to collect over 26,000 league of legends games and store into an SQL database. Transferred data from SQL database into python and formatted as a data frame using the python library Pandas. Processed and formulated expressions to determine more specific statistics such as win rate of X champ given that champ got first blood that game. Analyzed processed dataset and collected insights on a per-champ basis to determine the best champions to play at this level.</description>
+    </item>
+    
+  </channel>
+</rss>
